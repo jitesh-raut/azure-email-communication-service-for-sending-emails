@@ -335,11 +335,17 @@ mailserver.quit()
 
 ## Email Communication Service:
 
-Sending Emails: The cost is based on the number of emails sent and the amount of data transferred. The pricing is $0.00025 per email sent and $0.00012 per MB of data transferred​ ​.
-Example Calculation: If you send 1000 emails, each of 1 MB, the cost would be:
-Email cost: 1000 emails x $0.00025 = $0.25
-Data transfer cost: 1000 MB x $0.00012 = $0.12
-Total cost for 1000 emails: $0.25 + $0.12 = $0.37
+Sending Emails: The cost is based on the number of emails sent and the amount of data transferred. The pricing is $0.00025 per email sent and $0.00012 per MB of data transferred​.
+
+Example Calculation:
+
+If you send 1000 emails, each of 1 MB, the cost would be:
+   
+   Email cost: 1000 emails x $0.00025 = $0.25
+   
+   Data transfer cost: 1000 MB x $0.00012 = $0.12
+   
+   Total cost for 1000 emails: $0.25 + $0.12 = $0.37
 
 ref: [GitHub](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/communication-services/concepts/email-pricing.md)
 
