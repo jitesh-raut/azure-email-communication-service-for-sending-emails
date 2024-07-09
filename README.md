@@ -105,6 +105,11 @@ Review the configuration, add tags in the next step if required, and click **Cre
 ## Sending an Email Using Python Code (Connection String Authentication)
 
 Below is the sample code:
+Before executing make sure you installed required libraries.
+
+```bash
+pip install azure-communication-email
+```
 
 ```python
 # send-email.py
